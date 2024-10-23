@@ -28,4 +28,6 @@ Esse prejeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/
 
 ## Para acessar o projeto click no link
 
+ -https://calculadora-taupe-beta.vercel.app/
+
  
